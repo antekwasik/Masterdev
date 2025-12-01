@@ -1,0 +1,40 @@
+﻿@model List<Zadanie5_test.Models.Klient>
+@{
+    ViewData["Title"] = "Index";
+    string men = "Mężczyzna";
+    string Woman = "Kobieta";
+}
+<table class="table table-bordered table-light table-hover table-striped">
+    <tr>
+        <th>Id</th>
+        <th>Imie</th>
+        <th>Nazwisko</th>
+        <th>Pesel</th>
+        <th>RokUrodzenia</th>
+        <th>Płeć</th>
+        <th>Usuń</th>
+    </tr>
+
+@foreach (var klient in Model)
+{
+        <tr>
+            <td>@klient.id</td>
+            <td>@klient.name</td>
+            <td>@klient.surname</td>
+            <td>@klient.pesel</td>
+            <td>@klient.birthyear</td>
+            <td>@if(@klient.płeć == 1){
+                    @men;
+                }else{
+                    @Woman;
+                }
+            </td>
+            <td><form asp-action="Delete" method = "post" asp-route-id="@klient.id" ><button class="btn btn-danger">Usuń</button> </form>
+        </td>
+        </tr>
+
+
+    }
+</table>
+<form asp-action="Create" method="post"><button class="btn btn-success">Dodaj</button> </form>
+
