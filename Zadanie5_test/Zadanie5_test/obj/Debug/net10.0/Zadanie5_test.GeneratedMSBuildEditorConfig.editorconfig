@@ -19,49 +19,61 @@ build_property.TargetFrameworkIdentifier = .NETCoreApp
 build_property.TargetFrameworkVersion = v10.0
 build_property.RootNamespace = Zadanie5_test
 build_property.RootNamespace = Zadanie5_test
-build_property.ProjectDir = C:\Users\admin\source\repos\Zadanie5_test\Zadanie5_test\
+build_property.ProjectDir = C:\Users\Antek Wąsik\Documents\Materdev\Masterdev\Zadanie5_test\Zadanie5_test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\admin\source\repos\Zadanie5_test\Zadanie5_test
+build_property.MSBuildProjectDirectory = C:\Users\Antek Wąsik\Documents\Materdev\Masterdev\Zadanie5_test\Zadanie5_test
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Home/Index.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Home/Privacy.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Shared/Error.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Test/Create.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Test/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Test/Index.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Test/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Test/EksportujKlientow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxFa3Nwb3J0dWpLbGllbnRvdy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Test/ImportujKlientow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbXBvcnR1aktsaWVudG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/_ViewImports.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/_ViewStart.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/admin/source/repos/Zadanie5_test/Zadanie5_test/Views/Shared/_Layout.cshtml]
+[C:/Users/Antek Wąsik/Documents/Materdev/Masterdev/Zadanie5_test/Zadanie5_test/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pd0m8luo9k

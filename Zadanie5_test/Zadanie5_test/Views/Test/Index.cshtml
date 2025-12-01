@@ -12,7 +12,7 @@
         <th>Pesel</th>
         <th>RokUrodzenia</th>
         <th>Płeć</th>
-        <th>Usuń</th>
+        <th>Usuń/Edytuj</th>
     </tr>
 
 @foreach (var klient in Model)
@@ -29,7 +29,8 @@
                     @Woman;
                 }
             </td>
-            <td><form asp-action="Delete" method = "post" asp-route-id="@klient.id" ><button class="btn btn-danger">Usuń</button> </form>
+            <td class="d-flex justify-content-center" ><form asp-action="Delete" method = "post" asp-route-id="@klient.id" ><button class="btn btn-danger">Usuń</button> </form>
+                <form asp-action="Edit" method="get" asp-route-id="@klient.id"><button class="btn btn-primary">Edit</button> </form>
         </td>
         </tr>
 
@@ -37,4 +38,7 @@
     }
 </table>
 <form asp-action="Create" method="post"><button class="btn btn-success">Dodaj</button> </form>
-
+ <div style="width : 100%; text-align: center">
+    <a class="btn btn-dark" asp-action="ImportujKlientow">Importuj</a>
+    <a class="btn btn-warning" asp-action="EksportujKlientow">Eksportuj</a>
+</div>

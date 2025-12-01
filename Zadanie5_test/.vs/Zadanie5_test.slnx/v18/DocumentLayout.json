@@ -1,50 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\",
+  "WorkspaceRootPath": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\zadanie5_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\zadanie5_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\test\\eksportujklientow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\test\\eksportujklientow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\test\\importujklientow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\test\\importujklientow.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\controllers\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\data\\zadanie5_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\data\\zadanie5_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\zadanie5_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\zadanie5_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\test\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\test\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\admin\\source\\repos\\zadanie5_test\\zadanie5_test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\data\\zadanie5_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\data\\zadanie5_testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|c:\\users\\antek w\u0105sik\\documents\\materdev\\masterdev\\zadanie5_test\\zadanie5_test\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46F8B033-F049-F6BC-2A2A-7E6A16844D96}|Zadanie5_test\\Zadanie5_test.csproj|solutionrelative:zadanie5_test\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,138 +97,281 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Zadanie5_testContext.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Data\\Zadanie5_testContext.cs",
-              "RelativeDocumentMoniker": "Zadanie5_test\\Data\\Zadanie5_testContext.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Data\\Zadanie5_testContext.cs",
-              "RelativeToolTip": "Zadanie5_test\\Data\\Zadanie5_testContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:07:53.981Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EksportujKlientow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\EksportujKlientow.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Test\\EksportujKlientow.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\EksportujKlientow.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Test\\EksportujKlientow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T16:51:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportujKlientow.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\ImportujKlientow.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Test\\ImportujKlientow.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\ImportujKlientow.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Test\\ImportujKlientow.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T15:43:11.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Controllers\\Test.cs",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Controllers\\Test.cs",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Controllers\\Test.cs",
+              "RelativeToolTip": "Zadanie5_test\\Controllers\\Test.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAgwOUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:02:53.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Program.cs",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Program.cs",
+              "RelativeToolTip": "Zadanie5_test\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:15:40.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Index.cshtml",
               "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Test\\Index.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Index.cshtml",
               "RelativeToolTip": "Zadanie5_test\\Views\\Test\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-27T08:33:22.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Program.cs",
-              "RelativeDocumentMoniker": "Zadanie5_test\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Program.cs",
-              "RelativeToolTip": "Zadanie5_test\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAACSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:15:40.606Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Create.cshtml",
               "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Test\\Create.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Create.cshtml",
               "RelativeToolTip": "Zadanie5_test\\Views\\Test\\Create.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:36:44.375Z"
+              "WhenOpened": "2025-11-27T09:36:44.375Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Zadanie5_test\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\appsettings.Development.json",
+              "RelativeToolTip": "Zadanie5_test\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T14:41:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Zadanie5_test\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:08:48.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Zadanie5_test\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Zadanie5_test\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T08:40:58.636Z"
+              "WhenOpened": "2025-11-27T08:40:58.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Zadanie5_test.csproj",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Zadanie5_test.csproj",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Zadanie5_test.csproj",
               "RelativeDocumentMoniker": "Zadanie5_test\\Zadanie5_test.csproj",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Zadanie5_test.csproj",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Zadanie5_test.csproj",
               "RelativeToolTip": "Zadanie5_test\\Zadanie5_test.csproj",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAhwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-27T08:32:38.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Controllers\\Test.cs",
-              "RelativeDocumentMoniker": "Zadanie5_test\\Controllers\\Test.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Controllers\\Test.cs",
-              "RelativeToolTip": "Zadanie5_test\\Controllers\\Test.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:02:53.748Z"
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:42:04.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Zadanie5_test\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Zadanie5_test\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:08:48.504Z"
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Test\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Test\\Edit.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Test\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:43:48.179Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\appsettings.json",
-              "RelativeDocumentMoniker": "Zadanie5_test\\appsettings.json",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\appsettings.json",
-              "RelativeToolTip": "Zadanie5_test\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-27T08:13:36.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Klient.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Models\\Klient.cs",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Models\\Klient.cs",
               "RelativeDocumentMoniker": "Zadanie5_test\\Models\\Klient.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Models\\Klient.cs",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Models\\Klient.cs",
               "RelativeToolTip": "Zadanie5_test\\Models\\Klient.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAYAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T08:03:49.09Z"
+              "WhenOpened": "2025-11-27T08:03:49.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\appsettings.json",
+              "RelativeDocumentMoniker": "Zadanie5_test\\appsettings.json",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\appsettings.json",
+              "RelativeToolTip": "Zadanie5_test\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T08:13:36.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Zadanie5_testContext.cs",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Data\\Zadanie5_testContext.cs",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Data\\Zadanie5_testContext.cs",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Data\\Zadanie5_testContext.cs",
+              "RelativeToolTip": "Zadanie5_test\\Data\\Zadanie5_testContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T08:07:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:43:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:42:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:42:06.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Zadanie5_test\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\Zadanie5_test\\Zadanie5_test\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Zadanie5_test\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T09:59:51.772Z"
+              "WhenOpened": "2025-11-27T09:59:51.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:42:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Zadanie5_test\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Antek W\u0105sik\\Documents\\Materdev\\Masterdev\\Zadanie5_test\\Zadanie5_test\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Zadanie5_test\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-01T14:42:15.199Z",
+              "EditorCaption": ""
             }
           ]
         }

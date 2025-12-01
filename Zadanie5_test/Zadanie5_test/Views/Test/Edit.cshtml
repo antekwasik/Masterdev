@@ -1,0 +1,63 @@
+﻿@model Zadanie5_test.Models.Klient
+@{
+	ViewData["Title"] = "EditKlient";
+}
+<form asp-action="Edit" method="post">
+	<div class="form-group">
+		<label for="name">Name</label>
+		<input type="text" class="form-control" asp-for="name" />
+		<label for="surename">surename</label>
+		<input type="text" class="form-control" asp-for="surname" />
+		<label for="pesel">Pesel</label>
+		<input type="text" class="form-control" asp-for="pesel" id="Pesel" />
+		<label for="birthyear">Birthyear</label>
+		<input type="text" class="form-control" asp-for="birthyear" readonly id="Birthyear" />
+		<label for="płeć">płeć</label>
+		<input type="text" class="form-control" asp-for="płeć" readonly id="płeć" />
+	</div>
+	<input type="submit" value="SUBMIT" class="btn btn-primary" style="margin-top:30px;" />
+
+</form>
+<script>
+	function isValidPesel(pesel){
+		let waga = [1,3,7,9,1,3,7,9,1,3];
+		let suma=0;
+		let kontrolna = parseInt(pesel.substring(10,11));
+		for(let i = 0;i<waga.length;i++){
+			suma+=(parseInt(pesel.substring(i,i+1))*waga[i]);
+		}
+		suma%=10;
+		return (10-suma)%10 === kontrolna;
+	}
+
+	document.getElementById('Pesel').addEventListener('change',function(){
+		var s_Pesel = document.getElementById("Pesel").value;
+		if(isValidPesel(s_Pesel)){
+		var s_wiek = s_Pesel.substring(0,2);
+		var s_rok = s_Pesel.substring(2,4);
+		var s_plec = s_Pesel.substring(9,10);
+		var wiek = parseInt(s_wiek);
+		var rok = parseInt(s_rok);
+		var plec = parseInt(s_plec);
+		var pomocnicza = 0;
+		if (rok <=12 && rok>0){
+			pomocnicza = pomocnicza+1900;
+		}else if(rok >=21 && rok <=32){
+			pomocnicza = pomocnicza+2000;
+		}else if(rok >=41 && rok <=52){
+			pomocnicza = pomocnicza+2100;
+		}
+		if(plec%2 == 0){
+			plec = 0;
+		}else{
+			plec = 1;
+		}
+		pomocnicza = pomocnicza + wiek;
+		document.getElementById('Birthyear').value=pomocnicza;
+		document.getElementById('płeć').value=plec;
+		}else{
+			alert("Błędny Pesel");
+		}
+	});
+
+</script>
